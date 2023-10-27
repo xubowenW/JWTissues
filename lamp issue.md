@@ -2,6 +2,8 @@
 
 \[AFFECTED AND/OR FIXED VERSION(S)]: before version 3.8.1
 
+\[CVE ID]: CVE-2023-31579
+
 \[PROBLEM TYPE]:
 
 Vulnerability Type: hard-coded credential
